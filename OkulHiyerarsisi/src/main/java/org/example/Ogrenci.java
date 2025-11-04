@@ -7,7 +7,7 @@ public class Ogrenci extends Kisi {
 
     @Override
     public void kisiBilgisi() {
-        System.out.println("Öğrenci: " + ad + " "+  soyad +" Yaş: " + yas + " No: " + ogrenciNo + "Sınıf:" + sinif + "Bölüm:" + bolum);
+        System.out.println("Öğrenci: " + ad + " "+  soyad +" Yaş: " + yas + " No: " + ogrenciNo + " "  + "Sınıf:" +" " + sinif +" "+ "Bölüm:" + bolum);
     }
 
     public Ogrenci(String ad, String soyad, int yas, int ogrenciNo, int sinif, String bolum) {
