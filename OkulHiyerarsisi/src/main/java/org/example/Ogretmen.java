@@ -10,7 +10,7 @@ public class Ogretmen extends Kisi {
         System.out.println("Öğretmen: " + ad + " " + soyad + ", Bölüm: " + bolum + "Tecrübe:"+ tecrube + "Yıl" + ", Maaş: " + maas + "TL");
     }
 
-    public Ogretmen(String ad, String soyad, int yas, int tecrube, String bolum, double maas) {
+    public Ogretmen(String ad, String soyad , int yas, int tecrube, String bolum, double maas) {
         super(ad, soyad, yas);
         this.tecrube = tecrube;
         this.bolum = bolum;

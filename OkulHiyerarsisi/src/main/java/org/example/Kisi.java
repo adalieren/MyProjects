@@ -11,7 +11,7 @@ public class Kisi {
         this.yas = yas;
 
     }
-    public void kisiBilgisi(){
+    public void kisiBilgisi() {
 
     }
 }

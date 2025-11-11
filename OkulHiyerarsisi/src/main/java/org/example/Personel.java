@@ -9,7 +9,7 @@ public class Personel extends Kisi{
         System.out.println("Personel: " + ad + " "+ soyad + ", Alan: " + alan + ", Maas: " + maas);
     }
 
-    public Personel(String ad, String soyad, int yas, String alan, double maas) {
+    public Personel(String ad, String soyad , int yas, String alan, double maas) {
         super(ad, soyad, yas);
         this.alan = alan;
         this.maas = maas;

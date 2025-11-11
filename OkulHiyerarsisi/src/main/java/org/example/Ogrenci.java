@@ -10,7 +10,7 @@ public class Ogrenci extends Kisi {
         System.out.println("Öğrenci: " + ad + " "+  soyad +" Yaş: " + yas + " No: " + ogrenciNo + " "  + "Sınıf:" +" " + sinif +" "+ "Bölüm:" + bolum);
     }
 
-    public Ogrenci(String ad, String soyad, int yas, int ogrenciNo, int sinif, String bolum) {
+    public Ogrenci(String ad, String soyad, int yas, int ogrenciNo , int sinif, String bolum) {
         super(ad, soyad, yas);
         this.ogrenciNo = ogrenciNo;
         this.sinif = sinif;

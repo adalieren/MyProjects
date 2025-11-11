@@ -9,7 +9,7 @@ public class Main {
                 new Personel("Cem", "Kağan", 30, "Sekreter", 35000)
 
         };
-        Kisi kisi = new Ogrenci("Eren", "ADali", 20, 412, 11, "EA");
+        Kisi kisi = new Ogrenci("Eren" , "ADali", 20, 412, 11, "EA");
                 kisi.kisiBilgisi();
     }
 }
