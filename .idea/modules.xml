@@ -3,12 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaUygulamalar.iml" filepath="$PROJECT_DIR$/.idea/JavaUygulamalar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LinkedList.main.iml" filepath="$PROJECT_DIR$/.idea/modules/LinkedList.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LinkedList.test.iml" filepath="$PROJECT_DIR$/.idea/modules/LinkedList.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/OkulHiyerarsisi.iml" filepath="$PROJECT_DIR$/OkulHiyerarsisi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OkulHiyerarsisi.main.iml" filepath="$PROJECT_DIR$/.idea/modules/OkulHiyerarsisi.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OkulHiyerarsisi.test.iml" filepath="$PROJECT_DIR$/.idea/modules/OkulHiyerarsisi.test.iml" />
     </modules>
   </component>
 </project>
