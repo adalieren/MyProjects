@@ -1,7 +1,7 @@
 package org.example;
 
 public class Node {
-    private String data;
+    String data;
     Node next;
 
     public Node(String data,Node next){
