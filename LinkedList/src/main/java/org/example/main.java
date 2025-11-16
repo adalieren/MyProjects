@@ -14,8 +14,8 @@ public class main {
 
         list.yazdir();
 
-        
-        list.deleteLast();
+        list.addAfter("a","linked");
+
 
         list.yazdir();
     }
