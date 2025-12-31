@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/BinaryTree" />
     <file type="web" url="file://$PROJECT_DIR$/LinkedList" />
+    <file type="web" url="file://$PROJECT_DIR$/mvc" />
     <file type="web" url="file://$PROJECT_DIR$/OkulHiyerarsisi" />
     <file type="web" url="file://$PROJECT_DIR$/Stacks" />
   </component>

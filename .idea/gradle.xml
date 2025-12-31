@@ -53,6 +53,15 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mvc" />
+        <option name="gradleJvm" value="temurin-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mvc" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/../Veri_Yapilari/Tree" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-8.11.1" />
         <option name="gradleJvm" value="temurin-21" />
