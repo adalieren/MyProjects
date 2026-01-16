@@ -11,5 +11,5 @@ public class Main {
         };
         Kisi kisi = new Ogrenci("Eren" , "ADali", 20, 412, 11, "EA");
                 kisi.kisiBilgisi();
-    }
+        }
 }

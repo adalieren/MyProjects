@@ -47,7 +47,6 @@ public class Stack {
             System.out.print(Stack[i]+" ");
 
         }
-
     }
 
 }

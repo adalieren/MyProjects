@@ -14,12 +14,32 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/FinalCalismasi" />
+        <option name="gradleJvm" value="temurin-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/FinalCalismasi" />
+            <option value="$PROJECT_DIR$/FinalCalismasi/ntp" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/LinkedList" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-8.11.1" />
         <option name="gradleJvm" value="temurin-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/LinkedList" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/OOPpractice" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-8.11.1" />
+        <option name="gradleJvm" value="temurin-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/OOPpractice" />
           </set>
         </option>
       </GradleProjectSettings>
